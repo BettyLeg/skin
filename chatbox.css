@@ -182,3 +182,9 @@ body.chatbox {
     background-image: none;
     background: #f2f2f2
 }
+.sunset-list-foros > .pagination {
+    display: none;
+}
+.sunsettem-dato.dólares:before {
+    content: "\f51e";
+}
