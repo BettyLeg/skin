@@ -1,3 +1,10 @@
+.sunset-list-foros > .pagination {
+    display: none;
+}
+.sunsettem-dato.dólares:before {
+    content: "\f51e";
+}
+
 .chatbox div#chatbox_header {
     border: 1px solid #ddd;
     font-size: .8em;
@@ -181,10 +188,4 @@ div#chatbox_footer input {
 body.chatbox {
     background-image: none;
     background: #f2f2f2
-}
-.sunset-list-foros > .pagination {
-    display: none;
-}
-.sunsettem-dato.dólares:before {
-    content: "\f51e";
 }
